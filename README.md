@@ -1,5 +1,8 @@
 # TIL
 
+## 2018-03-31:
+  * Download your google data: https://takeout.google.com/
+
 ## 2018-03-26:
   * Bootstrap dialig sample: https://nakupanda.github.io/bootstrap3-dialog/
 
