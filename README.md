@@ -1,3 +1,3 @@
 # TIL
 
-Go to Issue !
+Go to [Issues](https://github.com/g-viet/til/issues) !
